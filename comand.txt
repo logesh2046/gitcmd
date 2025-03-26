@@ -1,0 +1,23 @@
+git config --global user.email""
+git config --global user.name""
+
+
+
+
+git clone https link 
+
+
+to create file and add to repo
+
+git add .
+git commit -m "modified"
+git push origin branch name main
+
+and to add in github file to pull
+git pull
+
+to create new repo
+git init
+git remote  add origin https link
+git branch // for check branch name
+git remote -M main // for change branch name

@@ -13,8 +13,15 @@ and againt to add the file
 git add .
 git commit -m ""
 git push origin (branch name) now current branch name
+ 
 
+ to use different what are file to be add
 
+ git diff (branchname)
+ git merge (branch name)
+
+ and again to add commit and push
+ 
 
 
 

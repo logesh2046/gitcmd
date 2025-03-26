@@ -1,0 +1,20 @@
+to create a new branch and pull 
+get pull
+
+to check branch directory 
+git branch -a
+
+to switch the main branch
+
+git checkout (branch name)
+
+
+and againt to add the file 
+git add .
+git commit -m ""
+git push origin (branch name) now current branch name
+
+
+
+
+

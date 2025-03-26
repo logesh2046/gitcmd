@@ -20,4 +20,4 @@ to create new repo
 git init
 git remote  add origin https link
 git branch // for check branch name
-git remote -M main // for change branch name
+git branch -M main // for change branch name
